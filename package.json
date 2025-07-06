@@ -1,0 +1,26 @@
+{
+  "name": "sample-json",
+  "version": "0.0.4",
+  "description": "To extract all first data items of the same structure and same type from a JSON object/file",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "bin": {
+    "sample-json": "bin/cmd.js"
+  },
+  "keywords": [
+    "sample",
+    "json"
+  ],
+  "author": "fwg",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adf0001/sample-json.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adf0001/sample-json/issues"
+  },
+  "homepage": "https://github.com/adf0001/sample-json#readme"
+}
